@@ -102,11 +102,13 @@
 .wcu-card1-image {
     width: 1px;
     height: 10px;
+    text-align: center;
 }
 
 .wcu-card-image {
-    width: 87px;
-    height: 90px;
+    width: 17px;
+    height: 20px;
+    text-align: center;
 }
 
 .wcu-card-title {
